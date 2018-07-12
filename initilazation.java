@@ -20,7 +20,7 @@ public class Initilization
 	{
      
 		Object obj=new Initilization();
-		System.out.println("This is correct result");
+		
 	}
 
 }
